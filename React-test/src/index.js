@@ -46,9 +46,7 @@ class App extends React.Component {
       userName: ""
     };
 
-    this.handleItems.bind(this);
-    this.handlerUserNameChange.bind(this);
-    this.handleDropdownChange.bind(this);
+    
   }
 
 
